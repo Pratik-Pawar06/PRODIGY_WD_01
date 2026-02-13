@@ -67,12 +67,6 @@ Through this task, I learned:
 
 ---
 
-### 📸 Output Screenshot
-
-*(Add your project screenshot here after uploading)*
-
----
-
 ### 🔗 Internship Details
 
 **Internship:** Prodigy InfoTech Web Development
